@@ -88,8 +88,8 @@
 
   <section>
     <h2>Contact Me</h2>
-    <p>Email: novelyn.chinedo@email.com</p>
-    <p>Phone: 09XX-XXX-XXXX</p>
+    <p>Email: novelynchinedo@gmail.com</p>
+    <p>Phone: 0905-806-6967</p>
     <p>OnlineJobs.ph Profile: <a href="#">Insert Link Here</a></p>
   </section>
 
